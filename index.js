@@ -19,5 +19,5 @@ function shouting(sentence){
 }
 
 function roundDown(number){
-  debugger;
+  number.floor();
 }
