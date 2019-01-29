@@ -19,5 +19,7 @@ function shouting(sentence){
 }
 
 function roundDown(number){
-  return Math.floor(number);
+//  debugger;
 }
+
+roundDown(4.3)
