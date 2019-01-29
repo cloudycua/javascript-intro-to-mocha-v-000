@@ -19,5 +19,5 @@ function shouting(sentence){
 }
 
 funcion roundDown(number){
-  
+
 }
